@@ -15,4 +15,5 @@ class User
 }
 
 $user = new User(1, 'refaat');
+
 print_r($user);
